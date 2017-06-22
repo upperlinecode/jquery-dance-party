@@ -4,3 +4,13 @@ body {
   background-repeat: no-repeat;
   background-position: top;
 }
+
+.gif{
+  display:inline-block;
+}
+
+.gif:hover{
+  border-style: dashed;
+  border-color: red;
+  border-width: 2px;
+}
