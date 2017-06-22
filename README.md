@@ -14,7 +14,7 @@ Build a basic dance floor and place one gif on the floor (statically). Add in ba
 
 Make the one dancer draggable and resizable using [jquery-UI](https://jqueryui.com/). Give it a class and apply the correct methods to it in `script.js`. We've done this for you in the boilerplate.
 
-*Note:* You'll need to apply '.draggable()' to a div surrounding the gif, and resizable() to the gif itself.
+*Note:* You'll need to apply `.draggable()` to a div surrounding the gif, and `resizable()` to the gif itself.
 
 ## Step 3: Multiple Dancers
 
